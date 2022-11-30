@@ -15,6 +15,7 @@
 		8566AF162924C5E50026EAC2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8566AF142924C5E50026EAC2 /* Main.storyboard */; };
 		8566AF182924C5E60026EAC2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8566AF172924C5E60026EAC2 /* Assets.xcassets */; };
 		8566AF1B2924C5E60026EAC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8566AF192924C5E60026EAC2 /* LaunchScreen.storyboard */; };
+		857068E42937189D00163DD2 /* HopGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 857068E32937189D00163DD2 /* HopGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		8566AF172924C5E60026EAC2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8566AF1A2924C5E60026EAC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8566AF1C2924C5E60026EAC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		857068E32937189D00163DD2 /* HopGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HopGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				8566AF172924C5E60026EAC2 /* Assets.xcassets */,
 				8566AF192924C5E60026EAC2 /* LaunchScreen.storyboard */,
 				8566AF1C2924C5E60026EAC2 /* Info.plist */,
+				857068E32937189D00163DD2 /* HopGame.swift */,
 				851C65DD292608B20073EFA5 /* Gradient.swift */,
 				85228927292EB2EA003564DC /* CornerRadiance.swift */,
 			);
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8566AF132924C5E50026EAC2 /* ViewController.swift in Sources */,
+				857068E42937189D00163DD2 /* HopGame.swift in Sources */,
 				851C65DE292608B20073EFA5 /* Gradient.swift in Sources */,
 				8566AF0F2924C5E50026EAC2 /* AppDelegate.swift in Sources */,
 				8566AF112924C5E50026EAC2 /* SceneDelegate.swift in Sources */,
